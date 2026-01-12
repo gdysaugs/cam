@@ -33,7 +33,7 @@ const AZIMUTH_MAP: Record<number, string> = {
 }
 
 const ELEVATION_MAP: Record<number, string> = {
-  -30: 'low-angle shot',
+  [-30]: 'low-angle shot',
   0: 'eye-level shot',
   30: 'elevated shot',
   60: 'high-angle shot',
