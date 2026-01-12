@@ -1,0 +1,9 @@
+{
+  "image": { "id": "LOAD_IMAGE_NODE_ID", "input": "image" },
+  "prompt": { "id": "PROMPT_NODE_ID", "input": "text" },
+  "seed": { "id": "SAMPLER_NODE_ID", "input": "seed" },
+  "steps": { "id": "SAMPLER_NODE_ID", "input": "steps" },
+  "cfg": { "id": "SAMPLER_NODE_ID", "input": "cfg" },
+  "width": { "id": "LATENT_NODE_ID", "input": "width" },
+  "height": { "id": "LATENT_NODE_ID", "input": "height" }
+}

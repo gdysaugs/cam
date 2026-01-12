@@ -1,0 +1,22 @@
+{
+  "image": {
+    "id": "1",
+    "input": "image"
+  },
+  "prompt": {
+    "id": "6",
+    "input": "prompt"
+  },
+  "seed": {
+    "id": "14",
+    "input": "seed"
+  },
+  "steps": {
+    "id": "14",
+    "input": "steps"
+  },
+  "cfg": {
+    "id": "14",
+    "input": "cfg"
+  }
+}
